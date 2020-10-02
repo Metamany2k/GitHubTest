@@ -8,4 +8,5 @@ int APIENTRY wWinMain(
     _In_ int nShowCmd)
 {
  
+    return 0;
 }

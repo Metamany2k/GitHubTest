@@ -31,7 +31,7 @@
 #ifndef FULL_WINTARD
 #define WIN32_LEAN_AND_MEAN
 #define NOGDICAPMASKS
-#define NOSYSMETRICS
+//#define NOSYSMETRICS
 #define NOMENUS
 #define NOICONS
 #define NOSYSCOMMANDS
@@ -43,7 +43,7 @@
 #define NOCTLMGR
 #define NODRAWTEXT
 #define NOKERNEL
-#define NONLS
+//#define NONLS
 #define NOMEMMGR
 #define NOMETAFILE
 #define NOOPENFILE
