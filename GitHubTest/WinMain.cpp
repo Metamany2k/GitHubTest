@@ -8,6 +8,5 @@ int APIENTRY wWinMain(
     _In_ int nShowCmd)
 {
  
-    MessageBoxA(nullptr, "Error in happy land", "error here", MB_OK);
     return 0;
 }
